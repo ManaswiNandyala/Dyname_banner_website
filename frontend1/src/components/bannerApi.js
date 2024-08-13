@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = '/api/banner'; // Adjust if needed
+const API_URL = 'https://dyname-banner-website.onrender.com/api/banner'; // Updated URL
 
 export const getBanner = async () => {
     try {
